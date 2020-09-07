@@ -22,4 +22,4 @@
 :it: **ITALIA  and USA not classified** :us: 
 <http://www.emoji-cheat-sheet.com/>
  
-:computer:  :bust_in_silhouette: :octocat: :es:
+:computer:  :bust_in_silhouette: :octocat:
